@@ -3,17 +3,17 @@
     "KPlugin": {
         "Authors": [
             {
-                "Name": "samirgaire10"
+                "Name": "apoordev"
             }
         ],
         "Category": "Online Services",
         "Description": "Add a ollama on your desktop.",
         "Icon": "applications-internet",
-        "Id": "com.samirgaire10.Ollama-plasma6",
+        "Id": "com.apoordev.ollama-plasma6",
         "License": "GPL-2.0+",
         "Name": "Ollama",
-        "Website": "https://github.com/samirgaire10/com.samirgaire10.Ollama-plasma6.git",
-        "github": "https://github.com/samirgaire10/"
+        "Website": "https://github.com/apoordev/com.apoordev.ollama-plasma6.git",
+        "github": "https://github.com/apoordev/"
     },
     "X-Plasma-API-Minimum-Version": "6.0"
 }
